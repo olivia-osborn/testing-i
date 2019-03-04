@@ -6,7 +6,7 @@
   "author": "Olivia Osborn <olioz95@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watch --verbose"
   },
   "dependencies": {
     "jest": "^24.1.0"
