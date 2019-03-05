@@ -1,0 +1,14 @@
+{
+  "name": "testing-i",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/olivia-osborn/testing-i.git",
+  "author": "Olivia Osborn <olioz95@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch --verbose"
+  },
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
